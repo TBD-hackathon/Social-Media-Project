@@ -2,20 +2,14 @@ import express from 'express';
 import userRouter from './Src/Features/User/Routes/user.routes.js'
 
 
-
-
-
-
-
-
-
-
 let server = express(); 
 
-server.use('api/user',userRouter)
+// Helps in parsing raw data into JSON
+server.use(express.json());
 
 
-
+// Major Routes
+server.use('/api/user',userRouter)
 
 
 

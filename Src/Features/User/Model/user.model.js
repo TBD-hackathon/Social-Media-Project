@@ -18,8 +18,18 @@ let userData = [
 
 export default class UserModel{
     constructor(userName,email,password){
+        this.id = userData.length+1;
         this.userName = userName;
         this.email = email;
         this.password = password;
+    }
+
+    static getUsers(){
+        return userData
+    }
+    static signUp(userName,email,password){
+        let newUser = new UserModel(userName,email,password);
+        userData.push(newUser);
+        
     }
 }
