@@ -21,7 +21,19 @@ export default class PostController{
             res.status(200).send(postArr)
         }
     }
+
     static createPost(req,res){
-        
+        let email = req.userEmail;
+        let postUrl = req.file.filename
+
+        console.log(email)
+        console.log(postUrl)
+
+        let  post = PostModel.createPost(email,postUrl);
+        if(!post){
+            res.status(501).send('Unable to add post')
+        }else{
+            res.status(200).send(post)
+        }
     }
 }
