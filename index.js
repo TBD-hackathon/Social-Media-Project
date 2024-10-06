@@ -1,6 +1,7 @@
 import express from 'express';
 import userRouter from './Src/Features/User/Routes/user.routes.js'
-
+import postRouter from './Src/Features/Post/Routes/post.routes.js';
+import jwtAuth from './Src/Middlewares/jwt.middleware.js';
 
 let server = express(); 
 
@@ -10,7 +11,7 @@ server.use(express.json());
 
 // Major Routes
 server.use('/api/user',userRouter)
-
+server.use('/api/post',jwtAuth,postRouter)
 
 
 

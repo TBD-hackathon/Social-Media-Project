@@ -32,4 +32,9 @@ export default class UserModel{
         userData.push(newUser);
         
     }
+
+    static signIn(email,password){
+        let user = userData.find(user => user.email==email && user.password==password);
+        return user;
+    }
 }
