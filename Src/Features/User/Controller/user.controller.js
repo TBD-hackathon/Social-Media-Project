@@ -1,7 +1,9 @@
+// User Controller
+
 import UserModel from "../Model/user.model.js";
 import jwt from 'jsonwebtoken';
-
-
+import PostController from "../../Post/Controller/post.controller.js";
+import { ApplicationError } from "../../../Error Handler/errorHandler.js";
 
 export default class UserController{
 
@@ -27,12 +29,13 @@ export default class UserController{
         let user = UserModel.signIn(email,password);
 
         if(!user){
-            
-            res.status(401).send('Invalid credentials')
+            throw new ApplicationError('Invalid credentials',401)
 
         }else{
             let token = jwt.sign({userId:user.id,userEmail:user.email},'NDK8EjSPnwbraZaVeqVvqCKY9O5tQrV0',{expiresIn:'1h'});
-            res.status(200).send(token)
+            res.status(200).send(token);
         }
     }
+  
+   
 }

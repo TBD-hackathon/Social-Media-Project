@@ -13,8 +13,10 @@ let jwtAuth = (req,res,next)=>{
 
         req.userId = payload.userId;
         req.userEmail = payload.userEmail;
+        
     }catch(err){
-        res.status(401).send('Unauthorized User')
+        console.log(err)
+        res.status(401).redirect('/api/user/signIn');
     }
 
     next();

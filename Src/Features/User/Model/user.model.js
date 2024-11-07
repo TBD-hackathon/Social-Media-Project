@@ -4,19 +4,19 @@ let userData = [
     
     {
         id: 1,
-        userName: "Athar Nawaid",
+        userName: "Athar",
         email: "athar@mail.com",
         password: "123"
     },
     {
         id: 2,
-        userName: "Talha Rihan",
+        userName: "Talha",
         email: "talha@mail.com",
         password: "123"
     },
     {
         id: 3,
-        userName: "Ariba Nausin",
+        userName: "Ariba",
         email: "ariba@mail.com",
         password: "123"
     }

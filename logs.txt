@@ -1,0 +1,136 @@
+{"level":"info","message":"/api/user/home - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/user/ - {}","service":"request-logging"}
+{"level":"info","message":"/favicon.ico - {}","service":"request-logging"}
+{"level":"info","message":"/api-docs - {}","service":"request-logging"}
+{"level":"info","message":"/api-docs/ - {}","service":"request-logging"}
+{"level":"info","message":"/api-docs/swagger-ui.css - {}","service":"request-logging"}
+{"level":"info","message":"/api-docs/swagger-ui-bundle.js - {}","service":"request-logging"}
+{"level":"info","message":"/api-docs/swagger-ui-init.js - {}","service":"request-logging"}
+{"level":"info","message":"/api-docs/swagger-ui-standalone-preset.js - {}","service":"request-logging"}
+{"level":"info","message":"/api-docs/favicon-32x32.png - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment?postId=2 - {\"content\":\"Good\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment?postId=2 - {\"content\":\"Good\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment?postId=2 - {\"content\":\"Good\"}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/:1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/:1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/:1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/user-post - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/:1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/id=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/id=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/id=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/?id=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post?id=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post?id=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post:id=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/id=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/id=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/delete/?postId=1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/post/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {\"content\":\"This is inded true\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {\"content\":\"This is inded true\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {\"content\":\"This is inded true\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {\"content\":\"This is inded true\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {\"content\":\"This is inded true\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?commentId=1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?commentId=1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?commentId=1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/commentId=1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/id=1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/id=1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {\"content\":\"This is inded true\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=2 - {\"content\":\"Checking Comment Section\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {\"content\":\"Comment Updated\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=2 - {\"content\":\"Checking Comment Section\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/?postId=2 - {}","service":"request-logging"}
