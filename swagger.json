@@ -3,7 +3,7 @@
   "info": {
     "title": "Social Media API",
     "version": "1.0.0",
-    "description": "API documentation for a social media platform"
+    "description": "API documentation for a social media platform."
   },
   "paths": {
     "/api/user": {
