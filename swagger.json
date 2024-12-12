@@ -4,7 +4,7 @@
     "title": "Notification Service API",
     "version": "1.0.0",
     "description": "Real time notifications and alerts system",
-    "team": "foo"
+    "team": "frontend-team"
   },
   "paths": {
     "/api/user": {
